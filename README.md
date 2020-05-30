@@ -1,1 +1,1 @@
-# 🤓 Architecture ml project
+# 🤓 Architecture machine Learning project
